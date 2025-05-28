@@ -6,4 +6,4 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
 
 ---
 
-## Setup
+## Setup Instructions
