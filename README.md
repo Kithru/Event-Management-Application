@@ -13,3 +13,4 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
 - Install XAMPP and start **Apache** and **MySQL**
 
 ### 2. WordPress Installation
+- Download the latest WordPress package from [https://wordpress.org/download](https://wordpress.org/download)
