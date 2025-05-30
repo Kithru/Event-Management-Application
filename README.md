@@ -15,3 +15,5 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
 ### 2. WordPress Installation
 - Download the latest WordPress package from [https://wordpress.org/download](https://wordpress.org/download)
 - Extract the WordPress files and place them inside `htdocs/EMS` in your XAMPP directory
+
+### 3. Create Database
