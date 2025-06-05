@@ -21,3 +21,4 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
 - Create a new database named: `EMS`
 
 ### 4.Configure WordPress
+- Visit [http://localhost/WP_EMS](http://localhost/WP_EMS)
