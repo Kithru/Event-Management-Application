@@ -27,3 +27,5 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
   - **Database Name**: EMS
   - **Username**: root
   - **Password**: ''
+    - **Admin Username**: `kithru`
+  - **Admin Password**: `JqMEVYlsd&Y*PG%q&u`
