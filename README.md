@@ -30,3 +30,6 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
   - **Admin Username**: `kithru`
   - **Admin Password**: `JqMEVYlsd&Y*PG%q&u`
   - **Admin Email**: kit@gmail.com   // This email is used as dumy email
+  
+---
+
