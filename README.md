@@ -33,3 +33,11 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
   
 ---
 
+## Features
+
+- Custom home page with featured blog-style posts (e.g., *Splash*, *Fine Events*, *Glamorous Music Night*)
+- Separate page for **Events – List** with date, price, organizer, and time details
+- Drop-down menu under **Posts** linking directly to featured posts
+- Fully responsive layout
+- User-friendly navigation: Home, Events List, Posts, FAQ, My Account
+
