@@ -104,3 +104,5 @@ function logIO( $io, $msg ) {
 		error_log( $io . ' - ' . $msg );
 	}
 }
+
+// By Kithru
