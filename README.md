@@ -41,3 +41,5 @@ EMS is a custom-built WordPress-based Event Management System designed to showca
 - Fully responsive layout
 - User-friendly navigation: Home, Events List, Posts, FAQ, My Account
 
+// By Kithru Viduranga
+
